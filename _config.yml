@@ -14,13 +14,13 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
 author: '彭浩'
 nickname: '蓬蒿'
-bio: '定义我们的，不是我们消费了什么，而是我们创造了什么'
-avatar: '/assets/img/profile.png'
+bio: '定义我们的，不是我们消费了什么，而是我们创造了什么。'
+avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
