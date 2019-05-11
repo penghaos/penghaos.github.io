@@ -1028,7 +1028,8 @@ a {
   .markdown-body img {
     margin: 0 auto 16px; }
   .markdown-body strong {
-    font-weight: 400; }
+    font-weight: 400; 
+	color: #6392BF;}
   .markdown-body blockquote p {
     font-size: 18px;
     letter-spacing: 1px;
